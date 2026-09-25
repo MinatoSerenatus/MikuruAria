@@ -1,2 +1,4 @@
 # MikuruAria
-MikuruAria 是一款兼容 SillyTavern 格式的 Android 纯文本聊天客户端。数据默认以 JSON、JSONL 和 TXT 明文保存在本地，支持角色卡、世界书、预设、正则脚本、流式模型请求和可选插件。
+MikuruAria 是一款兼容 SillyTavern（酒馆） 格式的 Android 纯文本聊天客户端，你要是叫它酒馆/SillyTraven安卓版我也没意见。数据默认以 JSON、JSONL 和 TXT 明文保存在本地，支持角色卡、世界书、预设、正则脚本、流式模型请求和可选插件。
+本软件与完全开源免费，完全公益，可直播、录播、二次改动，你想干什么都可以，如果能附上我的名字我会更开心的。
+本软件由AI辅助开发
